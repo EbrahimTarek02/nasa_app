@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261372092604",
+    "project_id": "star-f549e",
+    "storage_bucket": "star-f549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261372092604:android:a093d019e930eb484df0b9",
+        "android_client_info": {
+          "package_name": "com.example.nasa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpwdWx0WFWYeBhEEV_Xk9yrwSn0BP_1qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
